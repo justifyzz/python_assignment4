@@ -1,0 +1,10 @@
+beautifulsoup4==4.10.0
+Flask==2.0.2
+Flask_Bcrypt==0.7.1
+Flask_Login==0.5.0
+Flask_SQLAlchemy==2.5.1
+Flask_WTF==0.15.1
+PyJWT==2.3.0
+selenium==4.0.0
+webdriver_manager==3.5.2
+WTForms==2.3.3
